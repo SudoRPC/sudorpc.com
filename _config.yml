@@ -1,10 +1,10 @@
-title: Barktler
+title: SudoRPC
 email: wm@mengw.io
-description: Barktler API Solution
-url: https://barktler.com
-github_username: WMXPY
+description: SudoRPC remote procedure call framework
+url: https://sudorpc.com
+github_username: SudoRPC
 theme: minima
-repository: WMXPY/barktler.com
+repository: SudoRPC/sudorpc.com
 markdown: kramdown
 kramdown:
   input: GFM
