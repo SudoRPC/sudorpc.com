@@ -20,6 +20,10 @@ yarn add @sudorpc/core
 npm install @sudorpc/core --save
 ```
 
+## Work in Progress
+
+This is a work in progress. Please check back later.
+
 ## Links
 
 -   SudoDotDog Packages Index > [sudo.dog](https://sudo.dog)
